@@ -24,6 +24,7 @@ import androidx.constraintlayout.widget.ConstraintLayout
 import com.example.calcularpropina.viewModel.PropinaViewModel
 
 var  pvm = PropinaViewModel()
+
 @Composable
 fun CalcularPropina(modifier: Modifier = Modifier){
     Column(
